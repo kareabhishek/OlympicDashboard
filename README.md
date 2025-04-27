@@ -10,3 +10,6 @@ https://kareabhishek-shinydashboard.shinyapps.io/olympicsdashboard/
 # Data Source
 The dataset for the analysis and creating the dashboard is taken from:
 https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=olympic
+
+# Code For Cleaning Data
+The jupyter notebook to clean the dataset has been provided in the repository with the name Data_visualisation_CA-2.ipynb
